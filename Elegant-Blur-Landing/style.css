@@ -17,6 +17,7 @@ body {
 	filter: blur(10px);
 	-webkit-filter: blur(10px);
 	transition: all 1000ms;
+	background-attachment: fixed;
 }
 
 .showcase:hover::after {
